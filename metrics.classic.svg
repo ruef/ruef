@@ -258,7 +258,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +83.4k</span>
+                                <span class="added"> +83.5k</span>
                                 <span class="deleted"> -80.7k</span>
                             </div>
                             <span> </span>
@@ -306,7 +306,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jun 2026, 21:40:20 (timezone Canada/Mountain) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2026, 01:46:37 (timezone Canada/Mountain) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
